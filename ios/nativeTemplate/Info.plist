@@ -22,11 +22,11 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>0.1.0</string>
+    <string>0.0.0</string>
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleVersion</key>
-    <string>16</string>
+    <string>17</string>
     <key>CodePushKey</key>
     <string/>
     <key>GoogleMapsApiKey</key>
@@ -67,9 +67,9 @@
     <key>UIAppFonts</key>
     <array>
       <string>glyphicons-halflings-regular.ttf</string>
-      <string>Averta-Regular.otf</string>
       <string>Averta-Bold.otf</string>
       <string>Averta-BoldItalic.otf</string>
+      <string>Averta-Regular.otf</string>
       <string>Averta-Semibold.otf</string>
       <string>Averta-SemiboldItalic.otf</string>
     </array>
@@ -105,5 +105,11 @@
         </array>
       </dict>
     </array>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>To use that feature the app needs access to your location.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>To use that feature the app needs access to your location.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>To use that feature the app needs access to your location.</string>
   </dict>
 </plist>
